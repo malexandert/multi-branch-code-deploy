@@ -1,8 +1,8 @@
 {
-    "app_id": "multibranch-rxjxu",
+    "app_id": "multibranch-ijeae",
     "config_version": 20210101,
     "name": "multiBranch",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
-    "environment": "production"
+    "environment": "development"
 }
