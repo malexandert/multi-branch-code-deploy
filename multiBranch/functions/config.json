@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "name": "func1",
+        "private": false
+    }
+]
